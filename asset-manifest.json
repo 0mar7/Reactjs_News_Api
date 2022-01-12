@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Reactjs_News_Api/static/css/main.431cc7d2.css",
+    "main.js": "/Reactjs_News_Api/static/js/main.6c893466.js",
+    "static/media/bk4.jpg": "/Reactjs_News_Api/static/media/bk4.c318dbae0cc53285098e.jpg",
+    "static/media/fa-solid-900.svg": "/Reactjs_News_Api/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/Reactjs_News_Api/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/skyback.jpg": "/Reactjs_News_Api/static/media/skyback.08b798fb96d82a61c848.jpg",
+    "static/media/fa-solid-900.eot": "/Reactjs_News_Api/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/Reactjs_News_Api/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/fa-regular-400.svg": "/Reactjs_News_Api/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/Reactjs_News_Api/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/Reactjs_News_Api/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/Reactjs_News_Api/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/Reactjs_News_Api/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/Reactjs_News_Api/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/Reactjs_News_Api/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/fa-regular-400.eot": "/Reactjs_News_Api/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/Reactjs_News_Api/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/Reactjs_News_Api/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/sky.jpg": "/Reactjs_News_Api/static/media/sky.1f091b9ce3ff742ef350.jpg",
+    "static/media/fa-regular-400.woff2": "/Reactjs_News_Api/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "static/media/skyglass.webp": "/Reactjs_News_Api/static/media/skyglass.17b5b8ec15d36e24895c.webp",
+    "index.html": "/Reactjs_News_Api/index.html",
+    "main.431cc7d2.css.map": "/Reactjs_News_Api/static/css/main.431cc7d2.css.map",
+    "main.6c893466.js.map": "/Reactjs_News_Api/static/js/main.6c893466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.431cc7d2.css",
+    "static/js/main.6c893466.js"
+  ]
+}
